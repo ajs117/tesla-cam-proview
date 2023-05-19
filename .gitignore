@@ -1,1 +1,4 @@
 .vs
+tesla_cam_proview.spec
+build
+!/build/tesla_cam_proview/tesla_cam_proview.pkg
